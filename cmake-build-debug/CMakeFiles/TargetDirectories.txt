@@ -1,0 +1,4 @@
+/Users/lingeng/Desktop/C_Daily/parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lingeng/Desktop/C_Daily/parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lingeng/Desktop/C_Daily/parallel/cmake-build-debug/CMakeFiles/demo01.dir
+/Users/lingeng/Desktop/C_Daily/parallel/cmake-build-debug/CMakeFiles/parallel.dir

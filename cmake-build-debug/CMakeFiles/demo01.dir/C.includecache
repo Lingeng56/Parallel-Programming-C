@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lingeng/Desktop/C_Daily/parallel/pthread/demo01.c
+stdio.h
+-
+pthread.h
+-
+stdlib.h
+-
+
